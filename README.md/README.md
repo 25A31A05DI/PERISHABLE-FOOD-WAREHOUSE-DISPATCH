@@ -24,4 +24,5 @@ The system dispatches food items with the nearest expiry dates first, helping re
 To reduce food wastage and improve warehouse efficiency by dispatching perishable food items based on their expiry dates.
 
 ## Author
-VIVEK VARMA
+Vivek Varma
+
